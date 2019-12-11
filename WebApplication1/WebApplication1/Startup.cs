@@ -32,9 +32,10 @@ namespace WebApplication1
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
-
+           // hao
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
+        //nihao
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
