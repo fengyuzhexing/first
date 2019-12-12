@@ -16,6 +16,7 @@ namespace WebApplication1
     {
         //start
 		//devstart
+		//devstart2
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
