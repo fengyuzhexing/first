@@ -21,6 +21,7 @@ namespace WebApplication1
 		//devstart2 
 	    //devstartonline   
         //ceshi 
+        //uuu
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
