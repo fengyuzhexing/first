@@ -15,6 +15,7 @@ namespace WebApplication1
     public class Startup
     {
         //startsdsddf111
+		//2019 local
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
