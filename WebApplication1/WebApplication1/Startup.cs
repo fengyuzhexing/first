@@ -13,9 +13,13 @@ using Microsoft.Extensions.DependencyInjection;
 namespace WebApplication1
 {
     public class Startup
-    {
+    { 
         //startsdsddf111
-		//2019 local
+		//2019 local 
+        //start
+		//devstart 
+		//devstart2 
+	    //devstartonline  
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
