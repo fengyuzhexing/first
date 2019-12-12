@@ -14,12 +14,13 @@ namespace WebApplication1
 {
     public class Startup
     { 
-        //startsdsddf111
+        //startsdsddf111 
 		//2019 local 
         //start
 		//devstart 
 		//devstart2 
-	    //devstartonline  
+	    //devstartonline   
+        //ceshi 
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -39,9 +40,9 @@ namespace WebApplication1
 
            // hao
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
-        }
-        //nihao
-
+        } 
+        //nihao 
+//hehe 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
